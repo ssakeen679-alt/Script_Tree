@@ -1,4 +1,0 @@
-URLS:
-  SCRIPT_ACRHIVE:
-    LocalScripts:
-      LocalScript_1.luau: https:raw.hitgub.
